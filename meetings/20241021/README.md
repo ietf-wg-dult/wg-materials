@@ -1,6 +1,6 @@
 # 20241021 Interim Meeting
 
-We held a WG meeting, a tiger team meeting if you like, and here are the materials for that meeting.
+We held a WG meeting and here are the materials for that meeting.
 
 # Agenda
 
